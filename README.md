@@ -1,5 +1,4 @@
 # Optimization-Techniques
-Optimization Techniques and Genetic Algorithms.
 
 Optimization using Techniques likes :
   - Newton 
