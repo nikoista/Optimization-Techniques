@@ -5,4 +5,4 @@ Optimization using Techniques likes :
   - Levenberg-Marquadrt
   - Depest Decent
 
-Optimization using Genetic Algorithms for PIDI Controller Gains.
+Optimization using Genetic Algorithms for PID Controller Gains.
