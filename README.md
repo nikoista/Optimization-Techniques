@@ -1,6 +1,6 @@
 # Optimization-Techniques
 
-Optimization using Techniques likes :
+Optimization using Techniques like:
   - Newton 
   - Levenberg-Marquadrt
   - Depest Decent
